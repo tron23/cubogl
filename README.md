@@ -1,2 +1,2 @@
-# cubogl
-WebGL
+# paginapersonal
+CuboGL
